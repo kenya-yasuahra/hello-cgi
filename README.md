@@ -21,7 +21,7 @@ $memo = $cgi{'memo'};
 
 print <<EOF;
 <META HTTP-EQUIV="Refresh"
-CONTENT = "O;URL=http://local.kisc.meiji.ac.jp/~eg40346/chatform.htm"> #�e����URI�ɕύX���邱��
+CONTENT = "O;URL=http://local.kisc.meiji.ac.jp/~eg40346/chatform.htm"> 
 <body bgcolor=silver text=navy>
 wait for a second...<P>
 EOF
